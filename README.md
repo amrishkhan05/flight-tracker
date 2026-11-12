@@ -12,6 +12,12 @@ The expected frontend should include:
 - Planes can be selected/unselected to show/hide detailed information
 - Consumes flight data exclusively from the provided WebSocket backend
 
+## Frontend documentation
+
+- Setup, configuration, and test commands in the [frontend README](fe/README.md).
+- What was chosen and why in [DECISIONS.md](fe/DECISIONS.md).
+- A file-by-file explanation of the code in [WALKTHROUGH.md](fe/WALKTHROUGH.md).
+
 ## Backend
 
 ### Prerequisites
